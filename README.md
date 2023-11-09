@@ -14,4 +14,7 @@ Obstacle avoiding smart automobile
 After assembly, the car should look something like this:
 ![image](https://github.com/meghsat/Black-Inferno/assets/46103704/e19e0d06-bafb-412d-a197-24ba58f4bcd8)
 
+![image](https://github.com/meghsat/Black-Inferno/assets/46103704/27358514-7449-4909-b361-bc66b7595ac4)
+
 ![image](https://github.com/meghsat/Black-Inferno/assets/46103704/a0edea80-4a6b-446b-8ae7-a1a1ace7feab)
+
